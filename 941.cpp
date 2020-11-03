@@ -21,3 +21,4 @@ public:
         if(count != 2) return false;
         return true;
 };
+
