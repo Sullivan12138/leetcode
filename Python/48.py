@@ -4,7 +4,6 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        a, b, c, d = 1001, 1001, 1001, 1001
         n = len(matrix)
         x = n // 2
         for i in range(x):
